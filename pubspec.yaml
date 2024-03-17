@@ -3,6 +3,7 @@ description: Unofficial MinIO Dart Client SDK that provides simple APIs to acces
 version: 3.5.0
 homepage: https://github.com/xtyxtyx/minio-dart
 issue_tracker: https://github.com/xtyxtyx/minio-dart/issues
+publish_to: 'none'
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
